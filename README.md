@@ -1,5 +1,7 @@
 # ML for Robotic Fabrication – Triangle Hypotenuse Prediction
 
+![Uploading science-channingtatum.gif…]()
+
 ## Dataset
 - 1000 samples of right-angle triangles
 - Random values for sides a and b (1 to 100)
